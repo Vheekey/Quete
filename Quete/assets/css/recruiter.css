@@ -1,0 +1,9 @@
+.container-fluid{
+  background: url(../images/job9.jpg) center no-repeat;
+  width: 100%;
+  min-height: 500px;
+}
+
+body{
+  background-color:whitesmoke;
+}
